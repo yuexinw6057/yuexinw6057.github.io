@@ -10,3 +10,7 @@ The process has been rough with ups and downs, but the most difficult thing that
 
 ---
 
+#### Visuals 
+- To see how it is coded, click [Here](https://github.com/yuexinw6057/Mall-Directory/blob/main/script.js)
+- 
+
